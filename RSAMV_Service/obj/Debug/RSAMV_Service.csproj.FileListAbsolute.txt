@@ -1,0 +1,11 @@
+E:\Structure\RSAMV\RSAMV_Service\bin\RSAMV_Service.dll
+E:\Structure\RSAMV\RSAMV_Service\bin\RSAMV_Service.pdb
+E:\Structure\RSAMV\RSAMV_Service\bin\EntityFramework.dll
+E:\Structure\RSAMV\RSAMV_Service\bin\EntityFramework.xml
+E:\Structure\RSAMV\RSAMV_Service\obj\Debug\RSAMV_Service.dll
+E:\Structure\RSAMV\RSAMV_Service\obj\Debug\RSAMV_Service.pdb
+E:\Structure\RSAMV\RSAMV_Service\bin\BLL.dll
+E:\Structure\RSAMV\RSAMV_Service\bin\RSAMV_Utility.dll
+E:\Structure\RSAMV\RSAMV_Service\bin\BLL.pdb
+E:\Structure\RSAMV\RSAMV_Service\bin\RSAMV_Utility.pdb
+E:\Structure\RSAMV\RSAMV_Service\obj\Debug\RSAMV_Service.csprojResolveAssemblyReference.cache
